@@ -1,3 +1,6 @@
+
+👉 El código está en: race_simulation.py
+
 # 🏎️ Race Simulation Game (Python)
 
 This is my first Python project.
